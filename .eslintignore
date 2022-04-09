@@ -1,0 +1,6 @@
+~/.vscode
+/.vscode
+/.git
+/node_modules
+/build
+/src/assets

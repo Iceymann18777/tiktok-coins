@@ -12,7 +12,7 @@ export const Profile = ({ index, src, name, description }) => (
     )}
 
     <Col>
-      <S.Avatar src={src} icon={!src && <Icon24UserOutline />} alt="Аватар" />
+      <S.Avatar src={src} icon={!src && <Icon24UserOutline />} alt="Online" />
     </Col>
 
     <Col>
